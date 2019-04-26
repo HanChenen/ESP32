@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "user_touch_pad.h": "c",
+        "my_tcp.h": "c",
+        "queue.h": "c"
+    }
+}

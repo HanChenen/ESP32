@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "i2s.h": "c",
+        "esp_heap_caps.h": "c"
+    }
+}
