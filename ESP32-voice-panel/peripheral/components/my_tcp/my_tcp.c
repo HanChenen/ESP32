@@ -28,9 +28,9 @@ extern QueueHandle_t message_queue;
 
 //client 
 //STA模式配置信息,即要连上的路由器的账号密码
-#define GATEWAY_SSID            "Qimiao"                //账号
-#define GATEWAY_PAS             "wxlz123456789"         //密码
-#define TCP_SERVER_ADRESS       "192.168.0.171"         //"101.37.84.121" 作为client，要连接的TCP服务器地址
+#define GATEWAY_SSID            "MY_SSID"                //账号
+#define GATEWAY_PAS             "MY_PASSWORD"         //密码
+#define TCP_SERVER_ADRESS       "192.168.0.171"         //作为client，要连接的TCP服务器地址
 #define TCP_PORT                9825                    //通信端口
 
 //socket
